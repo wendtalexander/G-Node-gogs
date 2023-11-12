@@ -2,6 +2,9 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/gnode/gogs.svg)](https://hub.docker.com/r/gnode/gogs/builds/)
 [![Build Status](https://travis-ci.org/G-Node/gogs.svg?branch=master)](https://travis-ci.org/G-Node/gogs)
 
+# To-Do List for updating 
+- Updating datacite to version 4.4 more information can be found at: https://schema.datacite.org/meta/kernel-4.4/
+
 # About Gin Gogs
 
 gin-gogs is the web interface for the **GIN** (**G**-Node **IN**frastructure) services.
